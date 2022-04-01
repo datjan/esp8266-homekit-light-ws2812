@@ -15,7 +15,7 @@ D1 mini -> ws2812
 GND -> GND
 D4 -> DIN
 ```
-![alt text](https://github.com/datjan/esp8266-homekit-temphumiditysensor/blob/main/connection-schema.png?raw=true)
+![alt text](https://github.com/datjan/esp8266-homekit-light-ws2812/blob/main/connection-schema.png?raw=true)
 
 ## Development
 This sketch is for following development environment
